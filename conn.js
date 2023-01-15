@@ -1148,7 +1148,7 @@ reply(menu_list)
 break
 case 'mppenu':{
 if (cekUser("id", sender) == null) return reply(mess.OnlyUser)
-const gurbot = "6285943429237@s.whatsapp.net"
+const gurbot = "6281574773972@s.whatsapp.net"
 mentions(`*${ucapanWaktu} ${cekUser("name", sender)}* 👋🏻
 
 *USER INFO*
@@ -1186,7 +1186,7 @@ const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 var no = 1
 var ad = 1
-const gurbot = "6285943429237@s.whatsapp.net"
+const gurbot = "6281574773972@s.whatsapp.net"
 var footer_nya =`_Powered By @${gurbot.split("@")[0]}_`
 var menu_nya =`*──────❲ ${setting.botName} ❳──────*
 
@@ -1415,7 +1415,7 @@ case 'ownerinfo':{
 let owner_info =`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* ohlx Official
+ • *Nama:* Playshop
  • *Hoby:* Turu/Game
  • *Askot:* Palembang
  • *Konten:* Creator
@@ -1423,8 +1423,8 @@ let owner_info =`──「 *INFO OWNER* 」──
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 6285943429237
- • *Youtube:* OHLX BOR`
+ • *Whatsapp:* 6281574773972
+ • *TikTok:* jb.playshop`
 reply(owner_info)
 }
 break
