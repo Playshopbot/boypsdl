@@ -1593,7 +1593,7 @@ case 'grupbot':
 case 'groupbot':
 if (cekUser("id", sender) == null) return reply(mess.OnlyUser)
 reply(`*Forum Bot Whatsapp*
-https://linktr.ee/ohlxbot`)
+https://linktr.ee/playshop.id`)
 break
 case 'kur':
 case 'kurang':{
@@ -1767,7 +1767,7 @@ if (cekUser("id", sender) == null) return reply(mess.OnlyUser)
 var owner_Nya = setting.ownerNumber
 sendContact(from, owner_Nya, setting.ownerName, msg)
 await sleep(1000)
-var owner_nyaa = '6285943429237@s.whatsapp.net'
+var owner_nyaa = '6281574773972@s.whatsapp.net'
 sendContact(from, owner_nyaa, "Developer Bot", msg)
 }
 break
@@ -2767,7 +2767,7 @@ let text_buysc =`*_Mau beli scriptnya? harga murah kok._*
 *Contact Person 📞*
 
 *Admin:*
-*Wa.me/6285943429237*
+*Wa.me/6281574773972*
 
 _*Harga Normal :*_ ~Rp150.000~
 *_Harga Promo : Rp100.000_*
