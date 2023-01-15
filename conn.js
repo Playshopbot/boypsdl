@@ -1125,7 +1125,7 @@ _Utamakan chat to the point_ 🚀
 ${strip}Telpon & Spam blokir 🚫${strip}
 
 _Whatsapp Admin (1) :_
-_Wa.me/6285943429237_
+_Wa.me/6281574773972_
 
 *SELAIN DI ATAS CLONE* ‼️
 
